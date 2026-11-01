@@ -6,3 +6,6 @@ sudo mount -o nouuid /dev/nvmeln1p1 /mnt/recovery
 cat /home/ec2-user/.ssh/authorized_keys >> /mnt/recovery/home/ec2-user/.ssh/authorized_keys
 sudo umount -l /mnt/recovery
 exit
+
+
+ssh -i "Deleted file name" ec2-user@98.93.109.49
