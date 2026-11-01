@@ -1,0 +1,38 @@
+First EC2 create pannuvom la anga poidanum
+
+Anga ami(usually amazon linux use panra place ). Anga right la last ah patha browse option irukkum anga poitu AWS marketplace nu irukkum select that
+
+In that search box type open vpn and neriya list aagum from that open vpn byol nu onnu irukkum adha select pannanum ( for the first time adha subscribe panna sollum adha pannanum )
+
+Now launch instance kuduthu launch pannanum then....
+
+Now instance ah Connect pannanum Connect la direct browser laiyea connect pannalam... 
+
+Inside that yes kuduthutu enter press pannittean varanum then... Password create panna sollum anga create pannanum....
+
+**Remember that password**
+
+
+then after a final yes.. oru ipo show aagum in terminal itself with a /admin route 
+
+Adha browser la open panni login with username: openvpn
+Password created password 
+
+
+Then adhula activation key kekkum.... Kela create something oru right Arrow irukkum adha click panni ulla poona we can create the activation key by logging in with our mail.....
+
+
+Andha key ah copy pannitu vandhu... First key keeta place la podanum (usually in previous tab)
+
+
+Then it will give you a link to download the open vpn software... Adha install panninrun panna oru ipo pootu connect btn irukkum adha click panni connect kuduthat success......
+
+
+For verification go to whatismyipaddrras.com/ip and andha ip ah podanum it will locate to the region in which we have created or vpc...
+
+
+That's it
+
+
+
+Ipo dhaan Naanum indha ex ah complete pannean
