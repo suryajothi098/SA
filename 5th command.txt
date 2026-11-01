@@ -1,0 +1,5 @@
+cd ~/Downloads
+
+ssh -i SA-Lab-Key.pem ec2-user@YOUR_PUBLIC_IP
+
+(Replace YOUR_PUBLIC_IP with your actual EC2 public IP.)
