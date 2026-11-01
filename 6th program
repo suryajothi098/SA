@@ -1,0 +1,8 @@
+ssh -i "My_Recovery_6.pem" ec2-user@32.192.45.249  (replace with your's)
+
+sudo mkdir /mnt/recovery
+lsblk
+sudo mount -o nouuid /dev/nvmeln1p1 /mnt/recovery
+cat /home/ec2-user/.ssh/authorized_keys >> /mnt/recovery/home/ec2-user/.ssh/authorized_keys
+sudo umount -l /mnt/recovery
+exit
